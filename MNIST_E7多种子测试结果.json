@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "seed": 42,
+      "errors": 28,
+      "accuracy": 0.9972,
+      "count": 10000
+    },
+    {
+      "seed": 43,
+      "errors": 34,
+      "accuracy": 0.9966,
+      "count": 10000,
+      "loss": 0.011353364970441907
+    },
+    {
+      "seed": 44,
+      "errors": 51,
+      "accuracy": 0.9949,
+      "count": 10000,
+      "loss": 0.016615997484698893
+    }
+  ],
+  "mean_accuracy": 0.9962333333333334
+}

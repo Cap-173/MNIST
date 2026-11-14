@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "seed": 42,
+      "control": {
+        "test_accuracy": 0.997,
+        "test_loss": 0.011897021441720427,
+        "count": 10000,
+        "errors": 30,
+        "validation_errors": 23,
+        "best_epoch": 14
+      },
+      "smoothing": {
+        "test_accuracy": 0.9963,
+        "test_loss": 0.03593933944702148,
+        "count": 10000,
+        "errors": 37,
+        "validation_errors": 23,
+        "best_epoch": 14
+      }
+    },
+    {
+      "seed": 43,
+      "control": {
+        "test_accuracy": 0.9964,
+        "test_loss": 0.011072107291594148,
+        "count": 10000,
+        "errors": 36,
+        "validation_errors": 26,
+        "best_epoch": 13
+      },
+      "smoothing": {
+        "test_accuracy": 0.9971,
+        "test_loss": 0.03859503965377808,
+        "count": 10000,
+        "errors": 29,
+        "validation_errors": 20,
+        "best_epoch": 13
+      }
+    },
+    {
+      "seed": 44,
+      "control": {
+        "test_accuracy": 0.9968,
+        "test_loss": 0.013250181703199632,
+        "count": 10000,
+        "errors": 32,
+        "validation_errors": 21,
+        "best_epoch": 12
+      },
+      "smoothing": {
+        "test_accuracy": 0.9968,
+        "test_loss": 0.03898580617904663,
+        "count": 10000,
+        "errors": 32,
+        "validation_errors": 23,
+        "best_epoch": 13
+      }
+    }
+  ],
+  "summary": {
+    "control": {
+      "mean_test_accuracy_percent": 99.67333333333333,
+      "sample_std_percentage_points": 0.03055050463304061,
+      "mean_test_errors": 32.666666666666664
+    },
+    "smoothing": {
+      "mean_test_accuracy_percent": 99.67333333333333,
+      "sample_std_percentage_points": 0.04041451884327397,
+      "mean_test_errors": 32.666666666666664
+    }
+  }
+}

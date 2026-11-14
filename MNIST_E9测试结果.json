@@ -1,0 +1,14 @@
+{
+  "control": {
+    "test_accuracy": 0.997,
+    "test_loss": 0.011897021441720427,
+    "count": 10000,
+    "errors": 30
+  },
+  "smoothing": {
+    "test_accuracy": 0.9963,
+    "test_loss": 0.03593933944702148,
+    "count": 10000,
+    "errors": 37
+  }
+}

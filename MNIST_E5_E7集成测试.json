@@ -1,0 +1,17 @@
+{
+  "split": "official MNIST test",
+  "seed": 42,
+  "count": 10000,
+  "errors": {
+    "e5": 40,
+    "e7": 28,
+    "ensemble": 31
+  },
+  "accuracy": {
+    "e5": 0.996,
+    "e7": 0.9972,
+    "ensemble": 0.9969
+  },
+  "corrected_vs_e7": 2,
+  "newly_wrong_vs_e7": 5
+}
