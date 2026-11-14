@@ -1,0 +1,14 @@
+{
+  "best_epoch": 15,
+  "best_val_acc": 0.9953333333333333,
+  "best_val_loss": 0.020566916902860007,
+  "best_val_errors": 28,
+  "model": "mnist_residual_cnn",
+  "parameters": 553450,
+  "optimizer": "AdamW",
+  "schedule": "cosine",
+  "lr": 0.001,
+  "weight_decay": 0.01,
+  "seed": 42,
+  "epochs": 20
+}

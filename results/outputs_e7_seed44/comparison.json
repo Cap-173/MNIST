@@ -1,0 +1,16 @@
+{
+  "e7": {
+    "accuracy": 0.996,
+    "loss": 0.019386363486448923,
+    "errors": 24,
+    "count": 6000
+  },
+  "e5": {
+    "accuracy": 0.996,
+    "loss": 0.01649836572011312,
+    "errors": 24,
+    "count": 6000
+  },
+  "corrected": 9,
+  "newly_wrong": 9
+}

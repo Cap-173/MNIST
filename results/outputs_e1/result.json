@@ -1,0 +1,8 @@
+{
+  "best_epoch": 8,
+  "best_val_acc": 0.9926666666666667,
+  "best_val_loss": 0.035233879407246906,
+  "best_val_errors": 44,
+  "seed": 42,
+  "epochs": 14
+}

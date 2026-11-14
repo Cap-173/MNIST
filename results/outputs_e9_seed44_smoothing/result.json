@@ -1,0 +1,17 @@
+{
+  "best_epoch": 13,
+  "best_val_acc": 0.9961666666666666,
+  "best_val_loss": 0.0417261422475179,
+  "best_val_errors": 23,
+  "model": "mnist_residual_cnn_late_pool",
+  "training_seconds": 402.4816245000111,
+  "split_seed": 42,
+  "parameters": 553450,
+  "optimizer": "AdamW",
+  "schedule": "cosine",
+  "lr": 0.001,
+  "weight_decay": 0.01,
+  "label_smoothing": 0.05,
+  "seed": 44,
+  "epochs": 14
+}

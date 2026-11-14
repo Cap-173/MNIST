@@ -1,0 +1,22 @@
+{
+  "ema_decay": 0.999,
+  "ema_use_buffers": true,
+  "ema_best_epoch": 14,
+  "ema_best_val_acc": 0.9956666666666667,
+  "ema_best_val_loss": 0.02023472636938095,
+  "ema_best_val_errors": 26,
+  "best_epoch": 14,
+  "best_val_acc": 0.9958333333333333,
+  "best_val_loss": 0.020385465343793232,
+  "best_val_errors": 25,
+  "model": "mnist_residual_cnn_late_pool",
+  "training_seconds": 352.46351039991714,
+  "split_seed": 42,
+  "parameters": 553450,
+  "optimizer": "AdamW",
+  "schedule": "cosine",
+  "lr": 0.001,
+  "weight_decay": 0.01,
+  "seed": 44,
+  "epochs": 14
+}

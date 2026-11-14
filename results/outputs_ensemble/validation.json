@@ -1,0 +1,7 @@
+{
+  "split": "validation",
+  "accuracy": 0.9923333333333333,
+  "loss": 0.03283676282564799,
+  "count": 6000,
+  "errors": 46
+}
